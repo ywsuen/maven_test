@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="app">
+    <output-path>$PROJECT_DIR$/out/artifacts/app</output-path>
+    <root id="archive" name="app.jar">
+      <element id="module-output" name="maven_test" />
+    </root>
+  </artifact>
+</component>
